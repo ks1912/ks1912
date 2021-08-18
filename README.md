@@ -13,23 +13,23 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 💬 Ask me about Pen Testing, Adverserial Machine Learning and Ethical Hacking 
 - 📫 How to reach me: Just google ks1912 
 
-</br>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ks1912)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](ks1912)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ks1912/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ks_kunalsingh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/ks1912)  
-</br>
+
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-</br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ks1912)](https://github.com/ryo-ma/github-profile-trophy)
-</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ks1912)](https://github.com/anuraghazra/github-readme-stats)
-</br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ks1912&show_icons=true)  
-</br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ks1912)  
-</br>
+
 ![GitHub metrics](https://metrics.lecoq.io/ks1912)  
-</br>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ks1912)  
-</br>
+
 ![Profile views](https://gpvc.arturio.dev/ks1912)
 </br>
 <!-- #### I am a Penetration Tester |Frontend Developer |Backend Developer | Ethical Hacker | Research Associate at IDRBT
