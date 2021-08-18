@@ -1,5 +1,4 @@
 ### Hi there 👋, Kunal Singh
-</br>
 #### I am a Penetration Tester |Frontend Developer |Backend Developer | Ethical Hacker | Research Associate at IDRBT
 </br>
 ![I am a Penetration Tester |Frontend Developer |Backend Developer | Ethical Hacker | Research Associate at IDRBT](https://www.linkedin.com/in/ks1912/)
