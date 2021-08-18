@@ -4,6 +4,8 @@ I am Kunal Singh, currently working as a Research Associate in IDRBT where I am 
 
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ks1912&theme=dark&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ks1912&layout=compact)](https://github.com/ks1912/github-readme-stats)
+
 <!--
 **ks1912/ks1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
