@@ -1,17 +1,12 @@
-### Hi there 👋
-
-I am Kunal Singh, currently working as a Research Associate in IDRBT where I am working on the backend and frontend of RUIBA and also doing research in Adversarial Machine Learning it means how machine learning models can be hacked. I know Python, JavaScript, C Language also have good knowledge on the topics of My SQL and MongoDB. I have also developed some of my personal projects which can be seen in my Github ( https://github.com/ks1912 ). Thank you for giving your precious time and study my profile.
-
-</br>
-
 ### Hi there 👋, Kunal Singh
+</br>
 #### I am a Penetration Tester |Frontend Developer |Backend Developer | Ethical Hacker | Research Associate at IDRBT
+</br>
 ![I am a Penetration Tester |Frontend Developer |Backend Developer | Ethical Hacker | Research Associate at IDRBT](https://www.linkedin.com/in/ks1912/)
-
+</br>
 I am Kunal Singh, currently working as a Research Associate in IDRBT where I am working on the backend and frontend of RUIBA and also doing research in Adversarial Machine Learning it means how machine learning models can be hacked. I know Python, JavaScript, C Language also have good knowledge on the topics of My SQL and MongoDB. I have also developed some of my personal projects which can be seen in my Github ( https://github.com/ks1912 ). Thank you for giving your precious time and study my profile.
-
+</br>
 Skills: PYTHON / REACT / JS / HTML / CSS / BOOTSTRAP / JAVA / MongoDB / MySQL / 
-
 </br>
 
 Here are some ideas to get you started:
