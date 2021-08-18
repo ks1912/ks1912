@@ -2,18 +2,24 @@
 
 I am Kunal Singh, currently working as a Research Associate in IDRBT where I am working on the backend and frontend of RUIBA and also doing research in Adversarial Machine Learning it means how machine learning models can be hacked. I know Python, JavaScript, C Language also have good knowledge on the topics of My SQL and MongoDB. I have also developed some of my personal projects which can be seen in my Github ( https://github.com/ks1912 ). Thank you for giving your precious time and study my profile.
 
+</br>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Research Associate
 - 🌱 I’m currently learning Pen Testing, CI/CD, Ethical Hacking
 - 👯 I’m looking to collaborate on Cyber Security, Development and Testing
-<!-- - 🤔 I’m looking for help with -->
 - 💬 Ask me about Pen Testing, Adverserial Machine Learning and Ethical Hacking
 - 📫 How to reach me: Just google ks1912
-<!-- - 😄 Pronouns: ...
+<!-- - 🤔 I’m looking for help with
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+</br>
+
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ks1912&theme=dark&show_icons=true)
+
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ks1912&layout=compact)](https://github.com/ks1912/github-readme-stats)
 
