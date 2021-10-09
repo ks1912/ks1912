@@ -6,9 +6,9 @@ I am Kunal Singh, currently working as a React JS Developer in Feuji. I have als
 </br>
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Adversarial Machine Learning 
+- 🔭 I’m currently working on Front End Technologies
 - 🌱 I’m currently learning Pen Testing, CI/CD, Ethical Hacking 
-- 👯 I’m looking to collaborate on Cyber Security, Development and Testing 
+- 👯 I’m looking to collaborate on Cyber Security, Development and Adversarial Machine Learning 
 - 🤔 I’m looking for help with Pen Testing 
 - 💬 Ask me about Pen Testing, Adverserial Machine Learning and Ethical Hacking 
 - 📫 How to reach me: Just google ks1912 
@@ -34,6 +34,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![Profile views](https://gpvc.arturio.dev/ks1912)
 </br>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- <h3 align="center">I am a Penetration Tester |Frontend Developer |Backend Developer | Ethical Hacker</h3>
 
