@@ -36,6 +36,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to bypass input filter](https://dev.to/ks1912/how-to-bypass-input-filter-59kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <h3 align="center">I am a Penetration Tester |Frontend Developer |Backend Developer | Ethical Hacker</h3>
