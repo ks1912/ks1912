@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 <!-- ### Hi there 👋, Kunal Singh -->
-#### I am a Penetration Tester |Frontend Developer |Backend Developer | Ethical Hacker 
+I am a Penetration Tester |Frontend Developer |Backend Developer | Ethical Hacker 
 
 I am Kunal Singh, currently working as a React JS Developer in Feuji. I have also worked on Adversarial Machine Learning (AML) with different attack and defense techniques. I know Python, JavaScript, C Language also have good knowledge on the topics of My SQL and MongoDB. I have also developed some of my personal projects which can be seen in my Github ( https://github.com/ks1912 ). Thank you for giving your precious time and study my profile.
 </br>
