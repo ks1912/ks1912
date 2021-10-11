@@ -36,6 +36,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Detailed Report on
+SQL INJECTION](https://dev.to/ks1912/a-detailed-report-on-sql-injection-439m)
+- [Cross-Site Scripting or XSS](https://dev.to/ks1912/cross-site-scripting-or-xss-4ppf)
 - [How to bypass input filter](https://dev.to/ks1912/how-to-bypass-input-filter-59kd)
 <!-- BLOG-POST-LIST:END -->
 
